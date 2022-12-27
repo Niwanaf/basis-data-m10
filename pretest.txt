@@ -1,0 +1,6 @@
+Apa perbedaan diagram konteks dan DFD level 0?
+
+jawab :
+
+diagram konteks menunjukan batasan sistem, entitas eksternal yang berinteraksi dengan sistem, dan arus informasi utama antara entitas dan sistem
+sedangkan diagram level 0 , menunjukkan proses utama sistem, aliran data, dan penyimpanan data pada tingkat abstraksi yang tinggi. 
