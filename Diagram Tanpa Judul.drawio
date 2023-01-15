@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T16:30:57.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LJcgtu3LOPvn-FhLdEl6" version="20.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-15T16:42:53.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yJkVQuSG0Zf952hyj7gK" version="20.8.5" type="github" pages="4">
   <diagram id="syg8G56wuBU-4y49v1hL" name="Halaman-1">
     <mxGraphModel dx="1257" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,7 +251,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3qARHazQQlH17Bu1nm-L" name="Halaman-3">
-    <mxGraphModel dx="880" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="344" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JBFOlltLoPA6zUMSaFMg-1" target="JBFOlltLoPA6zUMSaFMg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JBFOlltLoPA6zUMSaFMg-1" target="JBFOlltLoPA6zUMSaFMg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-1" value="Sistem Pengisian /&amp;nbsp;&lt;br&gt;Registrasi&lt;br&gt;&amp;nbsp;KRS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="349" y="170" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JBFOlltLoPA6zUMSaFMg-2" target="JBFOlltLoPA6zUMSaFMg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-2" value="Mahasiswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-4" value="dt_frs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-6" value="info_khs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.959;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JBFOlltLoPA6zUMSaFMg-7" target="JBFOlltLoPA6zUMSaFMg-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-7" value="Kampus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-9" value="lap_frs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBFOlltLoPA6zUMSaFMg-11" value="lap_khs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QLJrxg9EcerdIJr1NjV7" name="Halaman-4">
+    <mxGraphModel dx="292" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
