@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T13:24:18.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JbrnoI6pUTKzy1086bOt" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-15T16:30:57.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LJcgtu3LOPvn-FhLdEl6" version="20.8.5" type="github" pages="3">
   <diagram id="syg8G56wuBU-4y49v1hL" name="Halaman-1">
     <mxGraphModel dx="1257" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="omx-j8BEg3Ka3YBkPbBn" name="Halaman-2">
-    <mxGraphModel dx="1035" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,6 +247,14 @@
         <mxCell id="aebZocFND9lDFhXzeFaZ-55" value="Laporan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="660" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3qARHazQQlH17Bu1nm-L" name="Halaman-3">
+    <mxGraphModel dx="880" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
